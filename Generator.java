@@ -1,8 +1,6 @@
 /**
-	File:       	Lab11.java
+	File:       	Generator.java
 	Author:			Brennan Wilkes
-	ID:				100322326
-	Class:			CPSC-1150-001
 	Date:			19/11/19
 	Compiler:		Java JDK 1.8
 */
@@ -12,17 +10,17 @@ import java.util.*;
 import java.io.*;
 
 /**
-	This program generates anagrams for phone numbers.
+	This program generates numeronyms for phone numbers.
 */
-public class Lab11{
+public class Generator{
 	
 	/** Maximum word size / length of phone number (without area code) NOTE: This should never be changed*/
 	public static final int MAX_WORD_SIZE = 7;
 	
-	/** Maximum number of same index and same length permutations outputed for bonus section. ONLY FOR DISPLAY, ALL VALUES WILL STILL BE CALCULATED - Should always be >= 1 */
+	/** Maximum number of same index and same length permutations outputed. ONLY FOR DISPLAY, ALL VALUES WILL STILL BE CALCULATED - Should always be >= 1 */
 	public static final int MAX_NUMBER_PERMUTATIONS = 3;
 	
-	/** Maximum number of paths outputed for bonus section. ONLY FOR DISPLAY, ALL VALUES WILL STILL BE CALCULATED - Should always be >= 1 */
+	/** Maximum number of paths outputed. ONLY FOR DISPLAY, ALL VALUES WILL STILL BE CALCULATED - Should always be >= 1 */
 	public static final int MAX_PATHS = 10;
 	
 	/** Input file for phone numbers */
@@ -31,12 +29,8 @@ public class Lab11{
 	/** Input file for valid words */
 	public static final String WORDS_LIST_FILE = "word_list.txt";	//"sample_words.txt";//
 	
-	/** Output file for regular lab results */
-	public static final String OUTPUT_FILE_LAB = "results.txt";
-	
-	/** Output file for bonus section results */
-	public static final String OUTPUT_FILE_BONUS = "bonus_results.txt";
-	
+	/** Output file for results */
+	public static final String OUTPUT_FILE = "results.txt";
 	
 	/**
 		Index of number-letter pairs. Forms shape:
@@ -64,13 +58,6 @@ public class Lab11{
 			sort(word_index[digit]);
 		}
 		
-		//Calculate and output 7 letter and 3/4 letter anagrams
-		print_lab_results(word_index,numbers,new PrintWriter(new File(OUTPUT_FILE_LAB)));
-		
-		//-------------------
-		//---BONUS SECTION---
-		//-------------------
-		
 		//Initialize storage system
 		int[][][][] phonenumber_paths = new int[numbers.length][][][];
 		
@@ -85,47 +72,7 @@ public class Lab11{
 		}
 		
 		//Output
-		print_paths(numbers,phonenumber_paths,word_index,new PrintWriter(new File(OUTPUT_FILE_BONUS)));	
-	}
-	
-	/*
-		Calculate and outputs 7 letter and 3/4 letter anagrams
-		@param word_index dictionary of valid words
-		@param numbers phone numbers to iterate over
-		@param output output stream
-	*/
-	public static void print_lab_results(String[][][] word_index,String[] numbers,PrintWriter output){
-		int[] search7;
-		int[] search3;
-		int[] search4;
-		boolean formatting;
-		for(int num=0;num<numbers.length;num++){
-		
-			//Find all 7 letter anagrams
-			search7 = find(word_index[6],numbers[num].substring(3));
-			
-			//Find all 3 letter words that match the first three digits of the phone number
-			search3 = find(word_index[2],numbers[num].substring(3,6));
-			
-			//Find all 4 letter words that match the last four digits of the phone number
-			search4 = find(word_index[3],numbers[num].substring(6));
-			
-			//Output
-			if(search7!=null || (search3!=null && search4!=null)){
-				if(num>0){
-					output.println("--------");
-				}
-				output.println("TEL: "+numbers[num].substring(3));
-				if(search7!=null){
-					print_results(word_index,search7,numbers[num].substring(3),7,output);	
-				}
-				if((search3!=null && search4!=null)){
-					print_results(word_index,search3,numbers[num].substring(3,6),3,output);
-					print_results(word_index,search4,numbers[num].substring(6),4,output);	
-				}
-			}
-		}
-		output.close();
+		print_paths(numbers,phonenumber_paths,word_index,new PrintWriter(new File(OUTPUT_FILE)));	
 	}
 	
 	/*
@@ -288,11 +235,6 @@ public class Lab11{
 				//Iterate over all paths or up to MAX_PATHS
 				for(int path=0;path<valid_paths[number].length && path<MAX_PATHS && valid_paths[number][path]!=null;path++){
 					
-					/*
-						I didn't know how you wanted the bonus section outputted, but doing it the same
-						way as the regular lab section looked awful, so I came up with this cool tree
-						display system instead.
-					*/
 					output.println(numbers[number].substring(0,3));
 					spacing = 3;
 					

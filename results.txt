@@ -1,316 +1,1607 @@
-TEL: 2475463
-2475463: AIRLINE
-247: BIR
-247: AHS
-247: AHR
-247: AIR
-247: AIS
-247: BIS
-5463: LINE
-5463: LIME
-5463: KIND
-5463: KIME
-5463: LIND
+TEL: 6042475463
+604
+   AIRLINE
+604
+   BIRK
+       GOD
+       HOE
+       HOF
+604
+   BIRK
+       I
+        OF
+        ME
+        NE
+604
+   BIR
+   AHS
+   AHR
+      LINE
+      LIME
+      KIND
+604
+   BIR
+   AHS
+   AHR
+      LI
+      JI
+      KI
+        OF
+        ME
+        NE
+604
+   AG
+   AI
+   BI
+     SLIME
+604
+   AG
+   AI
+   BI
+     SKI
+        OF
+        ME
+        NE
+604
+   A
+    IRK
+       GOD
+       HOE
+       HOF
+604
+   A
+    IRK
+       I
+        OF
+        ME
+        NE
+604
+   A
+    IS
+    IP
+      LINE
+      LIME
+      KIND
 --------
-TEL: 2232532
-223: CAD
-223: BAE
-223: ACE
-223: ABE
-223: BAD
-2532: ALFA
-2532: BLEA
-2532: ALEC
-2532: ALDA
+TEL: 6042232532
+604
+   BADAL
+        EB
+        DA
+604
+   CADA
+       LEA
+       KEA
+       JEB
+604
+   CADA
+       LE
+       JE
+         A
+604
+   CAD
+   BAE
+   ACE
+      ALFA
+      BLEA
+      ALEC
+604
+   CAD
+   BAE
+   ACE
+      ALE
+      ALF
+      AKE
+         A
+604
+   CAD
+   BAE
+   ACE
+      AL
+        EB
+        DA
+604
+   CAD
+   BAE
+   ACE
+      A
+       LEA
+       KEA
+       JEB
+604
+   CAD
+   BAE
+   ACE
+      A
+       LE
+       JE
+         A
+604
+   AC
+     FAKE
+     EBLE
+     DAKE
+         A
+604
+   AC
+     DAL
+     ECK
+        EB
+        DA
 --------
-TEL: 2332669
-233: BED
-233: BEE
-233: ADE
-233: ADD
-2669: BOOZ
-2669: ANNY
-2669: BONY
+TEL: 6042332669
+604
+   BEDA
+       MOW
+       NOW
+       MOY
+604
+   BED
+   BEE
+   ADE
+      BOOZ
+      ANNY
+      BONY
+604
+   BED
+   BEE
+   ADE
+      CO
+      BO
+      AM
+        OZ
+        MY
+        OW
+604
+   BED
+   BEE
+   ADE
+      A
+       MOW
+       NOW
+       MOY
+604
+   CD
+   AD
+   AE
+     FANNY
+     EBONY
+     DANNY
+604
+   CD
+   AD
+   AE
+     FAO
+     DAM
+     DAN
+        OZ
+        MY
+        OW
+604
+   CD
+   AD
+   AE
+     EB
+     DA
+       MOW
+       NOW
+       MOY
+604
+   A
+    DECO
+    DEAN
+    DEAM
+        OZ
+        MY
+        OW
+604
+   A
+    FEB
+    DEC
+    DEA
+       MOW
+       NOW
+       MOY
+604
+   A
+    FE
+    DE
+    ED
+      BOOZ
+      ANNY
+      BONY
 --------
-TEL: 2692333
-269: COY
-269: AMY
-269: ANY
-269: COX
-269: COW
-269: CMX
-269: BOW
-269: BOX
-269: BOY
-2333: CEDE
-2333: ADEE
-2333: BEEF
+TEL: 6042692333
+604
+   COZAD
+   BOYCE
+        FE
+        DE
+        ED
+604
+   BOZA
+   ANZA
+       FEE
+       EDE
+       FED
+604
+   COY
+   AMY
+   ANY
+      CEDE
+      ADEE
+      BEEF
+604
+   COY
+   AMY
+   ANY
+      CD
+      AD
+      AE
+        FE
+        DE
+        ED
+604
+   COY
+   AMY
+   ANY
+      A
+       FEE
+       EDE
+       FED
+604
+   CO
+   BO
+   AM
+     WADED
+604
+   CO
+   BO
+   AM
+     WAD
+        FE
+        DE
+        ED
+604
+   CO
+   BO
+   AM
+     WA
+       FEE
+       EDE
+       FED
+604
+   A
+    NYCE
+        FE
+        DE
+        ED
+604
+   A
+    OZ
+    MY
+    OW
+      CEDE
+      ADEE
+      BEEF
 --------
-TEL: 3352684
-335: FEL
-335: DEL
-335: EEL
-2684: ANTI
-2684: BOTH
+TEL: 6043352684
+604
+   DELCO
+   FELAN
+   DELAO
+        UH
+        TH
+        TI
+604
+   FELA
+   DELA
+   DEJA
+       MUG
+       MUI
+604
+   FELA
+   DELA
+   DEJA
+       OU
+       MT
+       MU
+         I
+604
+   FEL
+   DEL
+   EEL
+      ANTI
+      BOTH
+604
+   FEL
+   DEL
+   EEL
+      COT
+      ANT
+         I
+604
+   FEL
+   DEL
+   EEL
+      CO
+      BO
+      AM
+        UH
+        TH
+        TI
+604
+   FEL
+   DEL
+   EEL
+      A
+       MUG
+       MUI
+604
+   FEL
+   DEL
+   EEL
+      A
+       OU
+       MT
+       MU
+         I
+604
+   FE
+   DE
+   ED
+     LANT
+     KANT
+         I
+604
+   FE
+   DE
+   ED
+     LAO
+     KAM
+     KAN
+        UH
+        TH
+        TI
 --------
-TEL: 3282695
-328: FAT
-328: EAU
-328: DAU
-328: DAT
-328: EAT
-2695: BOWL
+TEL: 6043282695
+604
+   FAVA
+   FATA
+   DATA
+       OWL
+604
+   FAT
+   EAU
+   DAU
+      BOWL
+604
+   FAT
+   EAU
+   DAU
+      A
+       OWL
+604
+   EB
+   DA
+     TB
+     TA
+       OWL
 --------
-TEL: 3692646
-369: FOY
-369: FOX
-369: ENZ
-369: DOW
-2646: COIN
-2646: BOHN
-2646: BOHM
-2646: AMIN
-2646: COHN
+TEL: 6043692646
+604
+   FOY
+   FOX
+   ENZ
+      COIN
+      BOHN
+      BOHM
+604
+   FOY
+   FOX
+   ENZ
+      CO
+      BO
+      AM
+        IO
+        HO
+        GO
+604
+   FOY
+   FOX
+   ENZ
+      A
+       NGO
+       OHM
+       MIM
+604
+   EM
+   EN
+   DO
+     WAN
+        IO
+        HO
+        GO
+604
+   EM
+   EN
+   DO
+     WA
+       NGO
+       OHM
+       MIM
 --------
-TEL: 4273297
-427: GAP
-427: GAS
-427: HAQ
-427: HAS
-427: GAR
-3297: DAYS
-3297: DAZS
-3297: DAWS
+TEL: 6044273297
+604
+   GAPE
+   GARE
+   HARD
+       CYR
+       AYR
+604
+   GAP
+   GAS
+   HAQ
+      DAYS
+      DAZS
+      DAWS
+604
+   IB
+   GA
+   HA
+     SE
+     RE
+       CYR
+       AYR
+604
+   I
+    APE
+    ARE
+    ARD
+       CYR
+       AYR
+604
+   I
+    AS
+    AR
+      DAYS
+      DAZS
+      DAWS
+604
+   I
+    A
+     SE
+     RE
+       CYR
+       AYR
 --------
-TEL: 4894853
-489: IVY
-489: HUX
-489: GUY
-4853: GULF
+TEL: 6044894853
+604
+   IVY
+   HUX
+   GUY
+      GULF
+604
+   IVY
+   HUX
+   GUY
+      IT
+      HU
+      GU
+        LE
+        JE
+604
+   IVY
+   HUX
+   GUY
+      I
+       ULF
+604
+   IT
+   HU
+   GU
+     WIT
+     WIT
+        LE
+        JE
+604
+   I
+    UZI
+       ULF
+604
+   I
+    UY
+    TY
+      GULF
+604
+   I
+    UY
+    TY
+      IT
+      HU
+      GU
+        LE
+        JE
+604
+   I
+    UY
+    TY
+      I
+       ULF
 --------
-TEL: 5386453
-538: LEV
-538: JET
-538: LET
-538: LEU
-6453: NIKE
-6453: MIKE
-6453: MILD
-6453: NILE
-6453: MILE
-6453: OGLE
+TEL: 6045386453
+604
+   LEUNG
+   LEUMI
+        LE
+        JE
+604
+   KETO
+   LETO
+       IKE
+604
+   KETO
+   LETO
+       I
+        LE
+        JE
+604
+   LEV
+   JET
+   LET
+      NIKE
+      MIKE
+      MILD
+604
+   LEV
+   JET
+   LET
+      OI
+      NG
+      MI
+        LE
+        JE
+604
+   LE
+   JE
+     UNI
+     UNG
+        LE
+        JE
+604
+   LE
+   JE
+     VO
+     TO
+     UM
+       IKE
+604
+   LE
+   JE
+     VO
+     TO
+     UM
+       I
+        LE
+        JE
 --------
-TEL: 6266332
-626: MAN
-626: MAO
-626: NAM
-626: NAN
-6332: ODEA
-6332: NEEB
-6332: MEDA
-6332: NEDA
+TEL: 6046266332
+604
+   MANNED
+         A
+604
+   MANNE
+        EB
+        DA
+604
+   OCON
+   OBON
+   MANN
+       FEB
+       DEC
+       DEA
+604
+   OCON
+   OBON
+   MANN
+       FE
+       DE
+       ED
+         A
+604
+   MAN
+   MAO
+   NAM
+      ODEA
+      NEEB
+      MEDA
+604
+   MAN
+   MAO
+   NAM
+      OFF
+      NEE
+      MED
+         A
+604
+   MAN
+   MAO
+   NAM
+      OF
+      ME
+      NE
+        EB
+        DA
+604
+   NA
+   MA
+   MC
+     MOFFA
+604
+   NA
+   MA
+   MC
+     NODE
+     MODE
+         A
+604
+   NA
+   MA
+   MC
+     ONE
+     NOD
+     NOE
+        EB
+        DA
 --------
-TEL: 7695878
-769: SOY
-769: POW
-769: POX
-769: ROW
-769: ROX
-769: ROY
-769: SOW
-769: SOX
-5878: LUST
-5878: KURT
-5878: JUST
+TEL: 6047695878
+604
+   SOY
+   POW
+   POX
+      LUST
+      KURT
+      JUST
+604
+   SOY
+   POW
+   POX
+      LU
+      JU
+      KU
+        SU
+        PU
+        ST
 --------
-TEL: 7293647
-729: RAW
-729: PAX
-729: RAX
-729: RAY
-729: RAZ
-729: PAY
-729: PAW
-729: SAW
-729: SAX
-729: SAY
-729: PAZ
-3647: ENIS
-3647: DOGS
-3647: EMIR
-3647: DOHR
+TEL: 6047293647
+604
+   RAZE
+   PAYE
+   RAYE
+       NIP
+       NIR
+       MIS
+604
+   RAW
+   PAX
+   RAX
+      ENIS
+      DOGS
+      EMIR
+604
+   RAW
+   PAX
+   RAX
+      EM
+      EN
+      DO
+        IS
+        IP
+604
+   SA
+   PA
+   RB
+     WEN
+        IS
+        IP
+604
+   SA
+   PA
+   RB
+     WE
+       NIP
+       NIR
+       MIS
 --------
-TEL: 7862867
-786: SUN
-786: RUN
-786: QUO
-786: PUN
-786: RUM
-786: SUM
-2867: BUMS
-2867: BUMP
-2867: ATOP
-2867: ATOR
-2867: BUNS
+TEL: 6047862867
+604
+   PUMA
+       VOS
+       TOR
+       TOP
+604
+   SUN
+   RUN
+   QUO
+      BUMS
+      BUMP
+      ATOP
+604
+   SUN
+   RUN
+   QUO
+      AU
+      BT
+      AT
+        OS
+        MR
+        MS
+604
+   SUN
+   RUN
+   QUO
+      A
+       VOS
+       TOR
+       TOP
+604
+   SU
+   PU
+   ST
+     MATOS
+604
+   SU
+   PU
+   ST
+     OCT
+     NAT
+     NAU
+        OS
+        MR
+        MS
+604
+   SU
+   PU
+   ST
+     NA
+     MA
+     MC
+       VOS
+       TOR
+       TOP
 --------
-TEL: 8432263
-843: VIE
-843: THE
-843: TIE
-2263: CANE
-2263: CAME
-2263: ACME
-2263: BAME
-2263: ACNE
-2263: BAND
-2263: BANE
+TEL: 6048432263
+604
+   VIDA
+   THEA
+       COE
+       AME
+       BOE
+604
+   VIDA
+   THEA
+       A
+        OF
+        ME
+        NE
+604
+   VIE
+   THE
+   TIE
+      CANE
+      CAME
+      ACME
+604
+   VIE
+   THE
+   TIE
+      AC
+        OF
+        ME
+        NE
+604
+   VIE
+   THE
+   TIE
+      A
+       COE
+       AME
+       BOE
+604
+   VIE
+   THE
+   TIE
+      A
+       A
+        OF
+        ME
+        NE
+604
+   UH
+   TH
+   TI
+     DAANE
+604
+   UH
+   TH
+   TI
+     FAC
+     DAB
+     DAC
+        OF
+        ME
+        NE
+604
+   UH
+   TH
+   TI
+     EB
+     DA
+       COE
+       AME
+       BOE
+604
+   UH
+   TH
+   TI
+     EB
+     DA
+       A
+        OF
+        ME
+        NE
 --------
-TEL: 9272695
-927: WAS
-927: WAR
-2695: BOWL
+TEL: 6049272695
+604
+   WAS
+   WAR
+      BOWL
+604
+   WAS
+   WAR
+      A
+       OWL
+604
+   WA
+     SA
+     PA
+     RB
+       OWL
 --------
-TEL: 2782842
-2782842: AQUATIC
-278: ART
-278: AST
-278: APT
-2842: AVIA
-2842: ATHA
+TEL: 6042782842
+604
+   AQUATIC
+604
+   ARVA
+   AQUA
+   ASTA
+       VIC
+       TIC
+       VIA
+604
+   ARVA
+   AQUA
+   ASTA
+       UH
+       TH
+       TI
+         A
+604
+   ART
+   AST
+   APT
+      AVIA
+      ATHA
+604
+   ART
+   AST
+   APT
+      BUG
+      AUG
+      AVI
+         A
+604
+   ART
+   AST
+   APT
+      AU
+      BT
+      AT
+        IB
+        GA
+        HA
+604
+   ART
+   AST
+   APT
+      AU
+      BT
+      AT
+        I
+         A
+604
+   ART
+   AST
+   APT
+      A
+       VIC
+       TIC
+       VIA
+604
+   ART
+   AST
+   APT
+      A
+       UH
+       TH
+       TI
+         A
+604
+   AS
+   AR
+     VATH
+         A
 --------
-TEL: 2277666
-2277666: BARROOM
-2277666: BASSOON
-227: CAR
-227: BAR
-227: BBQ
-227: CAP
-227: CAQ
-7666: SOON
-7666: ROOM
-7666: ROMM
-7666: ROMO
-7666: SONN
-7666: POON
+TEL: 6042277666
+604
+   BARROOM
+   BASSOON
+604
+   CASSO
+   BARRO
+   CAPPO
+        ON
+        NO
+        MO
+604
+   CASS
+   CARP
+   CARR
+       ONO
+       NOM
+       NON
+604
+   CAR
+   BAR
+   BBQ
+      SOON
+      ROOM
+      ROMM
+604
+   CAR
+   BAR
+   BBQ
+      SO
+      PM
+      RO
+        ON
+        NO
+        MO
+604
+   AC
+     SPOON
+604
+   AC
+     RPM
+     PRO
+     PPM
+        ON
+        NO
+        MO
+604
+   AC
+     SR
+       ONO
+       NOM
+       NON
+604
+   A
+    ARP
+    APP
+    ASP
+       ONO
+       NOM
+       NON
+604
+   A
+    AS
+    AR
+      SOON
+      ROOM
+      ROMM
 --------
-TEL: 2337626
-2337626: ADERMAN
-2337626: BEERMAN
-233: BED
-233: BEE
-233: ADE
-233: ADD
-7626: ROAM
-7626: ROAN
-7626: POCO
+TEL: 6042337626
+604
+   ADERMAN
+   BEERMAN
+604
+   CEES
+   BEES
+   ADDS
+       MAN
+       MAO
+       NAM
+604
+   BED
+   BEE
+   ADE
+      ROAM
+      ROAN
+      POCO
+604
+   BED
+   BEE
+   ADE
+      SO
+      PM
+      RO
+        CO
+        BO
+        AM
+604
+   CD
+   AD
+   AE
+     ERMAN
+604
+   CD
+   AD
+   AE
+     ERO
+        CO
+        BO
+        AM
+604
+   CD
+   AD
+   AE
+     FS
+     ER
+     ES
+       MAN
+       MAO
+       NAM
+604
+   A
+    FERNAO
+    DERMAN
+    DESMAN
+604
+   A
+    FERO
+    DERN
+    DEPO
+        CO
+        BO
+        AM
+604
+   A
+    FER
+    DER
+    DES
+       MAN
+       MAO
+       NAM
 --------
-TEL: 2682437
-2682437: COUCHES
-2682437: BOUCHER
-268: COT
-268: ANT
-2437: BIER
-2437: BIES
-2437: AGES
-2437: AGER
-2437: CHER
-2437: CHES
-2437: BIDS
-2437: AIDS
+TEL: 6042682437
+604
+   COUCHES
+   BOUCHER
+604
+   COUCH
+   BOUCH
+        FS
+        ER
+        ES
+604
+   COTA
+   BOVA
+       IFS
+       HEP
+       HER
+604
+   COTA
+   BOVA
+       I
+        FS
+        ER
+        ES
+604
+   COT
+   ANT
+      BIER
+      BIES
+      AGES
+604
+   COT
+   ANT
+      AG
+      AI
+      BI
+        FS
+        ER
+        ES
+604
+   COT
+   ANT
+      A
+       IFS
+       HEP
+       HER
+604
+   COT
+   ANT
+      A
+       I
+        FS
+        ER
+        ES
+604
+   CO
+   BO
+   AM
+     TAGER
+     TAHER
+604
+   CO
+   BO
+   AM
+     TAI
+     TAG
+        FS
+        ER
+        ES
 --------
-TEL: 2263727
-2263727: CAMERAS
-226: CAO
-226: BAN
-226: BAO
-226: ABO
-226: BAM
-226: CAM
-226: CAN
-3727: ERAS
+TEL: 6042263727
+604
+   CAMERAS
+604
+   CANES
+   ABNER
+   BANDS
+        AS
+        AR
+604
+   CANE
+   CAME
+   ACME
+       PAP
+       RAS
+       PAR
+604
+   CAO
+   BAN
+   BAO
+      ERAS
+604
+   CAO
+   BAN
+   BAO
+      FS
+      ER
+      ES
+        AS
+        AR
+604
+   AC
+     NES
+     ODP
+     MER
+        AS
+        AR
+604
+   AC
+     OF
+     ME
+     NE
+       PAP
+       RAS
+       PAR
+604
+   A
+    ANDRAS
+604
+   A
+    AMER
+    BOER
+    ANDS
+        AS
+        AR
+604
+   A
+    COE
+    AME
+    BOE
+       PAP
+       RAS
+       PAR
 --------
-TEL: 4263253
-4263253: GANDALF
-426: GAN
-426: IBN
-426: HAM
-426: HAN
-426: HAO
-426: IAN
-3253: FAKE
-3253: EBLE
-3253: DAKE
-3253: DALE
+TEL: 6044263253
+604
+   GANDALF
+604
+   HANDA
+   GANDA
+        LE
+        JE
+604
+   HANF
+   GAME
+   HAND
+       ALE
+       ALF
+       AKE
+604
+   HANF
+   GAME
+   HAND
+       A
+        LE
+        JE
+604
+   GAN
+   IBN
+   HAM
+      FAKE
+      EBLE
+      DAKE
+604
+   GAN
+   IBN
+   HAM
+      EB
+      DA
+        LE
+        JE
+604
+   IB
+   GA
+   HA
+     NEALE
+604
+   IB
+   GA
+   HA
+     OFC
+     MEA
+     NEC
+        LE
+        JE
+604
+   IB
+   GA
+   HA
+     OF
+     ME
+     NE
+       ALE
+       ALF
+       AKE
+604
+   IB
+   GA
+   HA
+     OF
+     ME
+     NE
+       A
+        LE
+        JE
 --------
-TEL: 5865437
-5865437: JUNKIES
-5865437: JUNKIER
-586: LUO
-586: KUN
-586: KUO
-586: LUM
-586: JUN
-5437: LIDS
-5437: KIDS
-5437: LIES
-5437: KIER
-5437: KIES
+TEL: 6045865437
+604
+   JUNKIES
+   JUNKIER
+604
+   JUNJI
+        FS
+        ER
+        ES
+604
+   JUNK
+       IFS
+       HEP
+       HER
+604
+   JUNK
+       I
+        FS
+        ER
+        ES
+604
+   LUO
+   KUN
+   KUO
+      LIDS
+      KIDS
+      LIES
+604
+   LUO
+   KUN
+   KUO
+      LI
+      JI
+      KI
+        FS
+        ER
+        ES
+604
+   LU
+   JU
+   KU
+     OKI
+     OJI
+        FS
+        ER
+        ES
+604
+   LU
+   JU
+   KU
+     OK
+       IFS
+       HEP
+       HER
+604
+   LU
+   JU
+   KU
+     OK
+       I
+        FS
+        ER
+        ES
 --------
-TEL: 6335625
-6335625: MEDLOCK
-633: OFF
-633: NEE
-633: MED
-633: MEE
-633: NED
-633: ODD
-633: ODE
-5625: LOCK
-5625: JOCK
-5625: KOCK
+TEL: 6046335625
+604
+   MEDLOCK
+604
+   MEEK
+   NEEL
+       MAL
+       MAK
+       OAK
+604
+   OFF
+   NEE
+   MED
+      LOCK
+      JOCK
+      KOCK
+604
+   OFF
+   NEE
+   MED
+      LO
+      KO
+      JO
+        AL
+604
+   OF
+   ME
+   NE
+     FLOCK
+604
+   OF
+   ME
+   NE
+     FLO
+     EKO
+     ELM
+        AL
+604
+   OF
+   ME
+   NE
+     DK
+     EK
+     EL
+       MAL
+       MAK
+       OAK
 --------
-TEL: 6624537
-6624537: MOBILES
-662: ONA
-662: NOA
-662: MOB
-662: OMA
-4537: ILES
-4537: ILER
+TEL: 6046624537
+604
+   MOBILES
+604
+   MOBIL
+        FS
+        ER
+        ES
+604
+   MOCH
+   NOAH
+       LES
+       KER
+       LEP
+604
+   ONA
+   NOA
+   MOB
+      ILES
+      ILER
+604
+   ONA
+   NOA
+   MOB
+      IL
+        FS
+        ER
+        ES
+604
+   ONA
+   NOA
+   MOB
+      I
+       LES
+       KER
+       LEP
+604
+   ON
+   NO
+   MO
+     AHLES
+     BILES
+     AILES
+604
+   ON
+   NO
+   MO
+     BIL
+     AHL
+        FS
+        ER
+        ES
+604
+   ON
+   NO
+   MO
+     AG
+     AI
+     BI
+       LES
+       KER
+       LEP
+604
+   ON
+   NO
+   MO
+     A
+      ILES
+      ILER
 --------
-TEL: 6878273
-6878273: MUSTARD
-687: OUR
-8273: VASE
-8273: TAPE
+TEL: 6046878273
+604
+   MUSTARD
+604
+   OUST
+   MUST
+       APE
+       ARE
+       ARD
+604
+   OUST
+   MUST
+       A
+        SE
+        RE
+604
+   OUR
+      VASE
+      TAPE
+604
+   OUR
+      TB
+      TA
+        SE
+        RE
+604
+   OU
+   MT
+   MU
+     SUCRE
+     SUARD
+     STAPF
+604
+   OU
+   MT
+   MU
+     SUB
+     QUA
+     RUA
+        SE
+        RE
+604
+   OU
+   MT
+   MU
+     SU
+     PU
+     ST
+       APE
+       ARE
+       ARD
+604
+   OU
+   MT
+   MU
+     SU
+     PU
+     ST
+       A
+        SE
+        RE
 --------
-TEL: 6877353
-6877353: OURSELF
-687: OUR
-7353: SELF
-7353: PELE
-7353: RELF
+TEL: 6046877353
+604
+   OURSELF
+604
+   NURRE
+   NURSE
+        LE
+        JE
+604
+   NUSS
+   OURS
+   MURR
+       ELF
+       EKE
+604
+   OUR
+      SELF
+      PELE
+      RELF
+604
+   OUR
+      SE
+      RE
+        LE
+        JE
+604
+   OU
+   MT
+   MU
+     PRE
+        LE
+        JE
+604
+   OU
+   MT
+   MU
+     SR
+       ELF
+       EKE
 --------
-TEL: 7296337
-7296337: PAWNEES
-7296337: PAYOFFS
-729: RAW
-729: PAX
-729: RAX
-729: RAY
-729: RAZ
-729: PAY
-729: PAW
-729: SAW
-729: SAX
-729: SAY
-729: PAZ
-6337: OFFS
-6337: OFER
-6337: MEER
-6337: MEES
-6337: ODES
-6337: NEER
-6337: NEES
-6337: ODDS
-6337: ODER
+TEL: 6047296337
+604
+   PAWNEES
+   PAYOFFS
+604
+   PAYNE
+   RAYNE
+        FS
+        ER
+        ES
+604
+   RAZO
+   PAWN
+       FER
+       DER
+       DES
+604
+   RAW
+   PAX
+   RAX
+      OFFS
+      OFER
+      MEER
+604
+   RAW
+   PAX
+   RAX
+      OF
+      ME
+      NE
+        FS
+        ER
+        ES
